@@ -1,0 +1,8 @@
+<div>
+  <span>{{ textBox.heading }}</span>
+</div>
+<input
+  type="text"
+  [(ngModel)]="textBox.textValue"
+  (keyup)="textChange(textBox.textValue)"
+/>

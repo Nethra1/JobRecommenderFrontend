@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "JobRecommendations"
+    }
+  },
+  "defaultProject": "JobRecommendations",
+  "cli": {
+    "analytics": "59899e44-aa1c-4096-9e20-f1b1c89fe95d"
+  }
 }
